@@ -4,9 +4,11 @@
   "private": true,
   "homepage": "https://github.com/AdrielAlvarez/Portfolio-AdrielAlvarez.git",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "yarn": "^1.15.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,13 +18,13 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-"eslintConfig": {
-  "extends": "react-app"
-},
-"browserslist": [
-  ">0.2%",
-  "not dead",
-  "not ie <= 11",
-  "not op_mini all"
-]
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

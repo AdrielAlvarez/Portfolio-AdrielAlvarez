@@ -1,0 +1,55 @@
+Arguments: 
+  /usr/local/Cellar/node/11.13.0/bin/node /usr/local/bin/yarn add gh-pages
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Python.framework/Versions/3.7/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  11.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EACCES: permission denied, unlink '/Users/school-adrielalvarezmacbookpro/Desktop/um_coding_bootcamp/portfolio/React-Portfolio/Portfolio-AdrielAlvarez/node_modules/email-addresses/.travis.yml'
+
+npm manifest: 
+  {
+    "name": "resume",
+    "version": "0.1.0",
+    "private": true,
+    "homepage": "https://github.com/AdrielAlvarez/Portfolio-AdrielAlvarez.git",
+    "dependencies": {
+      "gh-pages": "^2.0.1",
+      "react": "^16.6.0",
+      "react-dom": "^16.6.0",
+      "react-scripts": "2.1.1",
+      "yarn": "^1.15.2"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
