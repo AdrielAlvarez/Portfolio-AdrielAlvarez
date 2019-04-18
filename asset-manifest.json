@@ -1,13 +1,13 @@
 {
-  "main.css": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/css/main.aba0e935.chunk.css",
-  "main.js": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/js/main.887f3cd4.chunk.js",
-  "main.js.map": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/js/main.887f3cd4.chunk.js.map",
-  "runtime~main.js": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/js/runtime~main.9075aa5d.js",
-  "runtime~main.js.map": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/js/runtime~main.9075aa5d.js.map",
-  "static/js/2.f0259060.chunk.js": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/js/2.f0259060.chunk.js",
-  "static/js/2.f0259060.chunk.js.map": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/js/2.f0259060.chunk.js.map",
-  "index.html": "/AdrielAlvarez/Portfolio-AdrielAlvarez/index.html",
-  "precache-manifest.266e82c72659e4e9a0f17bd32e14c5ce.js": "/AdrielAlvarez/Portfolio-AdrielAlvarez/precache-manifest.266e82c72659e4e9a0f17bd32e14c5ce.js",
-  "service-worker.js": "/AdrielAlvarez/Portfolio-AdrielAlvarez/service-worker.js",
-  "static/css/main.aba0e935.chunk.css.map": "/AdrielAlvarez/Portfolio-AdrielAlvarez/static/css/main.aba0e935.chunk.css.map"
+  "main.css": "/Portfolio-AdrielAlvarez/static/css/main.aba0e935.chunk.css",
+  "main.js": "/Portfolio-AdrielAlvarez/static/js/main.806df951.chunk.js",
+  "main.js.map": "/Portfolio-AdrielAlvarez/static/js/main.806df951.chunk.js.map",
+  "runtime~main.js": "/Portfolio-AdrielAlvarez/static/js/runtime~main.ab8f9e2b.js",
+  "runtime~main.js.map": "/Portfolio-AdrielAlvarez/static/js/runtime~main.ab8f9e2b.js.map",
+  "static/js/2.f0259060.chunk.js": "/Portfolio-AdrielAlvarez/static/js/2.f0259060.chunk.js",
+  "static/js/2.f0259060.chunk.js.map": "/Portfolio-AdrielAlvarez/static/js/2.f0259060.chunk.js.map",
+  "index.html": "/Portfolio-AdrielAlvarez/index.html",
+  "precache-manifest.fa6ebc8a07525331218dc3c26a36f49c.js": "/Portfolio-AdrielAlvarez/precache-manifest.fa6ebc8a07525331218dc3c26a36f49c.js",
+  "service-worker.js": "/Portfolio-AdrielAlvarez/service-worker.js",
+  "static/css/main.aba0e935.chunk.css.map": "/Portfolio-AdrielAlvarez/static/css/main.aba0e935.chunk.css.map"
 }
