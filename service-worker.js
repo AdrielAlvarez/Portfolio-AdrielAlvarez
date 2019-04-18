@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Portfolio-AdrielAlvarez/*/precache-manifest.9df60b964263f47bc8b06219327cb726.js"
+  "/Portfolio-AdrielAlvarez/precache-manifest.fa6ebc8a07525331218dc3c26a36f49c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Portfolio-AdrielAlvarez/*/index.html", {
+workbox.routing.registerNavigationRoute("/Portfolio-AdrielAlvarez/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
